@@ -4,7 +4,7 @@ import java.util.Scanner;
         public void Enter(String name,String city,int roll_number){
             System.out.println("Your Name Is....."+name);
             System.out.println("Your City Name Is..."+city);
-            System.out.println("Your Roll Number Is..."+roll_number);
+            System.out.println("Your Site Number Is..."+roll_number);
         }
 
 
